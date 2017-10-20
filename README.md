@@ -1,14 +1,14 @@
 RigndesignTest
 ============
 
-You need CocoaPods to run this project. The external libraries used are:  
+This project uses CocoaPods. The external libraries used are:  
 
 -  Alamofire
 -  SwiftyJSON
 -  SVProgressHUD
 
-## Getting started
+## Instructions
 
-Just download the project and then run `pod install` so the dependancies are installed.
-Probably Xcode will ask you to change the Development team. After that you should nos have any issues to run the project.
+Just download the project and open it. No need to run `pod install` as the project already comes with the libraries.
+Probably Xcode will ask you to change the Development team. After that you should not have any issues to run the project.
 
