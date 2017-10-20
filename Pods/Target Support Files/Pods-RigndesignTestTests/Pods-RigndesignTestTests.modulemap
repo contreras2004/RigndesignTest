@@ -1,0 +1,6 @@
+framework module Pods_RigndesignTestTests {
+  umbrella header "Pods-RigndesignTestTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
